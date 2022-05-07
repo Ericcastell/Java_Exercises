@@ -1,7 +1,7 @@
 <img  src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg"  width="150"  align="right">
 
 # Java_Exercises
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 Repositório feito para disciplina de Programação Orientada a Objetos do CEFET-RJ no ano letivo de 2022.
 
@@ -17,7 +17,7 @@ Serão adicionados os exercícios e principais conceitos de Java, lecionados em 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,eclipse" />
+    <img src="https://skillicons.dev/icons?i=java,eclipse,vscode" />
   </a>
 </p>
 

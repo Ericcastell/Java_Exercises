@@ -11,17 +11,17 @@ public class MainClass2 {
 		double nota2 = Double.parseDouble (args[1]);
 		double media = (nota1 + nota2)/2;
 		
-		System.out.println('\nMedia: ' + media);
+		System.out.println("\nMedia: " + media);
 		if (media >= 6) {
-			System.out.println(\t"Aprovado!");
+			System.out.println("\tAprovado!");
 			if (media > 9.5)
-			System.out.println(\t"Parabéns!");
+			System.out.println("\tParabéns!");
 		}
 		else
 			if (media >= 3)
-			System.out.println(\t "Final"!);
+			System.out.println("\tFinal!");
 			else
-			System.out.println(\t"Reprovado!");
+			System.out.println("\tReprovado!");
 		
 	}
 	

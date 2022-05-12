@@ -11,7 +11,7 @@ Serão adicionados os exercícios e principais conceitos de Java, lecionados em 
 
 ## 💻 Desenvolvedor:
 
-- 👨🏻‍💻 ERIC BARBOSA CASTELLAR PINHEIRO; <a href="https://github.com/Ericcastell"><img  src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" width="45"></a>
+- 👨🏻‍💻 ERIC BARBOSA CASTELLAR PINHEIRO <a href="https://github.com/Ericcastell"><img  src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" width="45"></a>
 
 ## ⚙️ Ferramentas Utilizadas
 

@@ -21,7 +21,7 @@ public class Main {
 		int valorHora = sc.nextInt();
 		System.out.println("Tema do Mestrado: ");
 		sc.nextLine();
-	    String temaDoMestrado = sc.nextLine();
+	    	String temaDoMestrado = sc.nextLine();
 		
 		Pessoa pessoa = new Pessoa(cpf);
 		pessoa.setNome(nome);
